@@ -56,8 +56,7 @@ WordPress Development & Customization, Git & GitHub
 ---
 
 ## 📊 GitHub Stats
-![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanakramdev&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=faizanakramdev&theme=radical)  
+![Faizan's Contribution Graph](https://github.com/faizanakramdev/faizanakramdev/blob/main/assets/contributions.png)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanakramdev&layout=compact&theme=radical)  
 
 ---
