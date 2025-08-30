@@ -55,7 +55,7 @@ WordPress Development & Customization, Git & GitHub
 
 ---
 
-##🔒 **Private Contributions**
+## 🔒 Private Contributions
 - 10K+ commits across enterprise/private repositories
 - 1K+ pull requests closed
 - Multiple large-scale ReactJS projects delivered
