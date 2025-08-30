@@ -55,9 +55,10 @@ WordPress Development & Customization, Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
-![Faizan's Contribution Graph](https://github.com/faizanakramdev/faizanakramdev/blob/main/assets/contributions.png)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanakramdev&layout=compact&theme=radical)  
+##🔒 **Private Contributions**
+- 10K+ commits across enterprise/private repositories
+- 1K+ pull requests closed
+- Multiple large-scale ReactJS projects delivered
 
 ---
 
